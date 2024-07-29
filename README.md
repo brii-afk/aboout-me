@@ -6,8 +6,15 @@ Hii, I am currently a Secondary 5 student studying in Singapore. Although I may 
 
   <p align= "left">
     <a href= "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
-      <img alt= "my gmail account" title= "pls contact me"
-      src= "https://custom-icon-badges.demolab.com/badge/gmail-red.svg?logo=fire&logoColor=fff"/></a>
+      <img alt= "my gmail account" 
+      src= "https://custom-icon-badges.demolab.com/badge/GMAIL-yellow.svg?logo=fire&logoColor=fff"/></a>
+    <a href= "https://t.me/walkinbrii">
+      <img alt= "my telegram contact" 
+      src= "https://custom-icon-badges.demolab.com/badge/TELEGRAM-blue.svg?logo=download-cloud&logoSource=feather"/></a>
+    <a href= https://www.holyinnocentshigh.moe.edu.sg/>
+      <img alt= "my school"
+      src= "https://custom-icon-badges.demolab.com/badge/SCHOOL-green.svg?logo=star"/></a>
+    
 
 
 - 🔭 I’m currently working on my O levels ; hopefully 10 and below 
