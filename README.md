@@ -16,7 +16,7 @@ Hii, I am currently a Secondary 5 student studying in Singapore. Although I may 
       src= "https://custom-icon-badges.demolab.com/badge/SCHOOL-green.svg?logo=star"/></a>
       <a href= >
       <img alt= "my portfolio"
-      src= "https://custom-icon-badges.demolab.com/badge/PORTFOLIO-red.svg?logo=star"/></a>
+      src= "https://custom-icon-badges.demolab.com/badge/PORTFOLIO-red.svg?logo=award&logoSource=feather"/></a>
     
 
 
