@@ -1,9 +1,9 @@
-## Hi there 👋
+## ⚡ brii-afk !!
 
-<!--
-**brii-afk/brii-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Future potiental ethical hacker !! 🖥👩🏻‍💻
 
-Here are some ideas to get you started:
+Hii, I am currently a Secondary 5 student studying in Singapore. Although I may not have extensive coding experience, I am actively working to adapt to the coding world by dedicating my free time to learning and experimenting with code. My interest in coding was sparked when i discovered my problem-solving skills and my ability to break down complex concepts into simpler explanations, a skill I believe is invaluable in the field of technology :) I hope to contribute to the world meaningfully as a software developer or an ethical hacker. 
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
